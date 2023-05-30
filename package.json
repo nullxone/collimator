@@ -1,5 +1,6 @@
 {
   "name": "collimator",
+  "version": "8.1.1",
   "description": "Reflection & Introspection for PostgreSQL Databases",
   "repository": {
     "type": "git",
